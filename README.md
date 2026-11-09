@@ -22,7 +22,7 @@ Open the terminal and type:
 python week07/functions.py
 ```
 
-# Reflection
+## Lab 8 Reflections
 
 1. Git Commit History
 
